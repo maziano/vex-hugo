@@ -78,7 +78,7 @@ sections:
   path: exampleSite/config.toml
   label: Configuration
 upload_dir: media-urban-outfit
-public_path: ''
+public_path: upload-urban-outfit
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:, :year:, :month:, :day:"
