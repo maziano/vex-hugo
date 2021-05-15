@@ -78,9 +78,9 @@ sections:
   path: exampleSite/config.toml
   label: Configuration
 upload_dir: ''
-public_path: ''
+public_path: https://urbanoutfit.s3.us-east-1.amazonaws.com
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:, :year:, :month:, :day:"
 build:
   preview_env:
