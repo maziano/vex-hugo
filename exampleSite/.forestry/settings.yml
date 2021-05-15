@@ -80,7 +80,7 @@ sections:
 upload_dir: media-urban-outfit
 public_path: upload-urban-outfit
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:, :year:, :month:, :day:"
 build:
   preview_env:
